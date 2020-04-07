@@ -125,6 +125,8 @@ width:unset !important
 	right:0;
 }
 
+.fb-page iframe{width:unset}
+
 .contact{
 	max-width:100%;
 }
