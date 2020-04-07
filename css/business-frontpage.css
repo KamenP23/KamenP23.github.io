@@ -119,6 +119,13 @@ div.contact{
 	align-self:right ;
 	width:auto;
 	height:auto;
+	float:right;
+}
+
+abbr[title]{
+  border-bottom: none !important;
+  cursor: inherit !important;
+  text-decoration: none !important;
 }
 
 
