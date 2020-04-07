@@ -116,40 +116,5 @@ div.contact{
 }
 
 
-/*.fb-page > span{
-width:unset !important
-}
-
-.fb-page{
-	position:absolute;
-	right:0;
-}
-
-.fb-page iframe{width:unset}
-
-.contact{
-	max-width:100%;
-}
-
-header, footer{
-    position: absolute;
-    left: 0;
-}
-
-footer{
-	width:100%;
-}
-
-/* Main body div */
-.row{
-    margin: 250px 0 0px;
-}
-
-*/
-
-.fb-page{
-height:70;
-}
-
 
 
